@@ -1,4 +1,4 @@
-# HR_Analytics_Dashboard or Attrition Rate in a Pharmaceutical company. 
+# HR_Analytics_Dashboard for Attrition Rate in a Pharmaceutical company. 
 Problem Background:
 There is a Pharmaceutical company which is experiencing a concerning rise in employee attrition. Employee turnover not only impacts the productivity but also leads to increased recruitment and training costs.To address this issue effectively, we need to gain a deeper understanding of factors driving attrition and develop data driven strategies to improve Employee Retention.
 
